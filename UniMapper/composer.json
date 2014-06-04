@@ -1,0 +1,10 @@
+{
+    "description": "Benchmark for UniMapper",
+    "require": {
+        "php": ">= 5.4.0",
+        "bauer01/unimapper": "dev-master",
+        "bauer01/unimapper-dibi": "dev-master",
+        "nette/caching": "~2.2.0"
+    },
+    "minimum-stability": "dev"
+}
